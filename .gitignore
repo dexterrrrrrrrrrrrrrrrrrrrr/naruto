@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+
+# Node (if ever used)
+node_modules/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
