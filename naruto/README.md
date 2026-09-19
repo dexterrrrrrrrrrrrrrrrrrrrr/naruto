@@ -11,4 +11,4 @@ Simple hand tracking with Naruto/Sasuke powers.
 - **Blue Lines:** Shows the hand tracking so you know it's working
 
 ### Note:
-- Had to remove the glow to make it compatible for all devices.
+- Had to remove the glow to make it compatible for all devices..
